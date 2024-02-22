@@ -1,0 +1,39 @@
+{
+  "name": "insanodb",
+  "version": "0.0.1",
+  "description": "A JSON, LocalStorage, YAML Database waorking efficiently for larger storages.",
+  "main": "./file/index.js",
+  "types": "./typings/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InsanoDeath/insanodb.git"
+  },
+  "author": "InsanoDeath",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/InsanoDeath/insanodb/issues"
+  },
+  "homepage": "https://github.com/InsanoDeath/insanodb#readme",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "keywords": [
+    "InsanoDeath",
+    "idb-api",
+    "idbapi",
+    "idb",
+    "i-db",
+    "json",
+    "jsondb",
+    "yaml",
+    "yamldb",
+    "local",
+    "localstorage",
+    "local storage",
+    "node-json-db",
+    "db",
+    "mongo",
+    "mongoose",
+    "mongodb",
+    "database"
+  ]
+}
