@@ -26,7 +26,7 @@ class Base extends EventEmitter {
             this.emit("error", e);
         });
         mongoose.connection.on("open", () => {
-            console.log("[CroxyDB Mongo] Connected. Discord: https://discord.gg/wvxkkJp6c6")
+            console.log("[InsanoDB Mongo] Connected. Discord: https://discord.gg/wvxkkJp6c6")
             this.emit("ready");
         });
     }

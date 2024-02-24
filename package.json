@@ -1,6 +1,6 @@
 {
   "name": "insanodb",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A JSON, LocalStorage, YAML Database waorking efficiently for larger storages.",
   "main": "./file/index.js",
   "types": "./typings/index.d.ts",
